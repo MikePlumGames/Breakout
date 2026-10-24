@@ -1,0 +1,33 @@
+CREDITS.txt
+
+Game idea inspired by: learnopengl.com
+
+Font: Martian Mono from google fonts(see: assets/fonts/Martian Mono README.txt)
+
+================================================================================
+Third-party licenses and acknowledgments:
+
+1. FREETYPE (dependencies\lib\freetype)
+Portions of this software are copyright © 1996-2026 The FreeType Project 
+(www.freetype.org). All rights reserved. Licensed under the FreeType License.
+
+2. GLFW (dependencies\lib\GLFW)
+Copyright © 2002-2006 Marcus Geelnard
+Copyright © 2006-2019 Camilla Löwy <elmindreda@glfw.org>
+Licensed under the zlib/libpng license.
+
+3. GLAD (dependencies\lib\glad)
+Copyright © 2013-2024 David Herberth. Licensed under the MIT License.
+(Manually modified to add CMake support)
+
+4. GLM (OpenGL Mathematics)(dependencies\include\glm)
+Copyright © 2005-2024 G-Truc Creation. Licensed under the MIT License.
+
+5. JSON FOR MODERN C++ (nlohmann/json)(dependencies\include\nlohmann)
+Copyright © 2013-2024 Niels Lohmann. Licensed under the MIT License.
+
+6. STB_IMAGE & MINIAUDIO (dependencies\lib\stb_image) (dependencies\lib\miniaudio)
+stb_image (Sean Barrett) and miniaudio (David Reid) are recognized 
+and credited.  Both are dedicated to the public domain or licensed under 
+the MIT No Attribution / Unlicense.
+(Manually modified to add CMake support)
